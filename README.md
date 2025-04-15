@@ -23,13 +23,9 @@ Analisar os padrões de execução orçamentária das obras públicas do Institu
 
 ---
 
-## 📄 Citação sugerida
-
 > FERREIRA, Camila de Carvalho. Obras Públicas no IFSP (2014–2024): Uma Análise de Padrões por Clusterização de Dados Orçamentários. Mestrado Profissional em Administração Pública – Universidade Federal do Triângulo Mineiro (UFTM), 2025.
 
 ---
-
-## 🔓 Licença
 
 Este projeto está licenciado sob a Licença MIT.  
 Os dados utilizados são públicos, obtidos do Portal da Transparência (Governo Federal - Brasil).
